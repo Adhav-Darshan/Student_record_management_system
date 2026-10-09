@@ -24,4 +24,4 @@ This project is a console-based application developed to organize, update, and r
 ## How to Run
 1. Ensure Python 3.x is installed.
 2. Open a terminal in the project directory.
-3. Run the script using the command: `python student_system.py`
+3. Run the script using the command: `python Student_Record.py`
